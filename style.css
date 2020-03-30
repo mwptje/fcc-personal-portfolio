@@ -115,6 +115,9 @@ nav label {
   height: 100vh;
   background: var(--otherblue);
   color: white;
+  background: url(https://picsum.photos/id/277/1120/565.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 #welcome-section h1 {
